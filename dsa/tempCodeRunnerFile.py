@@ -1,1 +1,1 @@
-print(n)
+nums[-1]
