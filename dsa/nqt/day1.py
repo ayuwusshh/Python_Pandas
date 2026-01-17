@@ -32,7 +32,7 @@
 
 #4
 arr=list(map(int,input().split()))  # 1 2 3 3
-for idx in range(1,len(arr)): #2
+for idx in range(0,len(arr)): #2
   ls=0
   rs=0
   for i in range(0,idx):
